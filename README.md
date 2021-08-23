@@ -7,6 +7,6 @@ Properties of each text file:
 - English
 - Solely plain text
 - No emojis
-- Line break after every sentence
+- Line break after every sentence (string of words that ends in '?', '!', or '.')
 - May contain profane and offensive content
-- Not labelled or categoriezed in any way
+- Not labelled or categorized in any way
